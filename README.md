@@ -2,12 +2,9 @@
 
 A collection of Jupyter Notebooks for making sense of various Open data sources. Work-in-progress scripts and data sources.
 
-**Note:** Some of the notebooks are hosted in this repository. For practical reasons, some are archived in other repos. Just follow the links.**Note:** Some of the notebooks are hosted in this repository. For practical reasons, some are archived in other repos. Just follow the links.  
+**Note:** Some of the notebooks are hosted in this repository. For practical reasons, some are archived in other repos. Just follow the links.
 
-
-**Requirements:**
-
-All notebooks use the Jupyter Notebook and Python 3. In most cases the Pandas, Matplotlib, Seaborn and Basemap are used. I recommed the [Anaconda](https://www.continuum.io/downloads) distribution for installing these packages with ease. 
+**Requirements:** All notebooks use the Jupyter Notebook and Python 3. In most cases the Pandas, Matplotlib, Seaborn and Basemap are used. I recommed the [Anaconda](https://www.continuum.io/downloads) distribution for installing these packages with ease. 
 
 
 ### Demographic data
