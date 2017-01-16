@@ -22,6 +22,9 @@ In the [Analysis Portal](https://github.com/christopherkullenberg/Analysisportal
 
 
 ### Social science surveys
+
+* [responseRates.ipynb](https://github.com/christopherkullenberg/opendatanotebooks/blob/master/responseRates.ipynb) - Longitudinal comparison of survey response rates. 
+
 * [eurobarometer.ipynb](https://github.com/christopherkullenberg/eurobarometer/blob/master/eurobarometer.ipynb) in the [Eurobarometer](https://github.com/christopherkullenberg/eurobarometer) repository. Code for analysing Eurobarometer data on life satisfaction. 
 
 
